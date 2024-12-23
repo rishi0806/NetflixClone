@@ -1,0 +1,49 @@
+.bg{
+  background-color:black;
+}
+.img{
+  height:100px;
+  
+}
+.text{
+  color:#ffffff;
+  font-weight:bold;
+  padding:30px;
+}
+.search_img{
+  height:50px;
+  margin:15px;
+  padding:12px;
+  
+}
+.bell{
+  padding:25px;
+}
+.user_icon{
+  height:70px;
+  margin:10px;
+  padding:10px;
+  
+}
+.heading{
+  color:#ffffff;
+  padding:10px;
+  margin:15px;
+  size:30px;
+  
+}
+.pics{
+  padding:7px;
+    display:inline-block;
+  margin:3px;
+  height:250px;
+  width:430px;
+}
+.scrollmenu{
+  backgroung-color:#777;
+  overflow-x:scroll;
+  overflow-y:hidden;
+  white-space:nowrap;}
+::-webkit-scrollbar{
+  display:none;
+}

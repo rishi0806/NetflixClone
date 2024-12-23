@@ -1,0 +1,79 @@
+.bg{
+  background-color:#000000;
+  position:fixed;
+}
+.head{
+  height:50px;
+  width:100px;
+  padding:5px;
+}
+.button1{
+  background-color:#e60000;
+  color:#ffffff;
+  width:100px;
+  font-size:15px;
+  border-width:0px;
+  height:33px;
+  border-radius:2px;
+    padding:5px;
+  margin:5px;
+}
+.button2{
+  background-color:#000000;
+  color:#ffffff;
+  width:90px;
+  border-color:#ffffff;
+  font-size:15px;
+  border-width:0.5px;
+  height:33px;
+  border-radius:2px;
+    padding:5px;
+  margin:5px;
+}
+.head_bg{
+  background-color:#000000;
+display: flex;
+    justify-content: space-between;
+}
+.logo {
+    max-width: 300px;
+    width: 100%;
+  height:auto;
+  padding:20px;
+}
+.text{
+  color:#ffffff;
+  padding:10px;
+}
+.htext{
+  color:#8f8e8e;
+}
+.Ttext{
+  font-size:25px;
+  font-weight:bold;
+}
+.Div{
+  background: linear-gradient(to left, rgba(25, 25, 25, 0) 0px, rgba(25, 25, 25, 0.7) 600px, rgba(23, 25, 27, 0.95) 700px), url("https://occ-0-6183-3663.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRAhgqMEL85SmpCZBq_qwyuP2VXUevdebs8v7iXO6v4GS8kRKWW9j4jDfmLYXlDxWv49OUVx8iwhRCkRIqzMSSsraUx96iVry02o.jpg?r=01a&quot");
+  height: 250px;
+  width:50px;
+  border: solid 1px #000;
+  padding-right: 250px;
+  box-sizing:border-box;
+ 
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: absolute;
+    
+    width: 100%;
+
+}
+::-webkit-scrollbar{
+  display:none;
+}
+.bstyle{
+  padding:10px;
+  color:#ffffff;
+  background-color:#000000;
+}
